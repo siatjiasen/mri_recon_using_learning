@@ -19,6 +19,7 @@ Two learning based MRI reconstruction methods:
 could be realized based on created docker container.
 
 References
+
 VN              - https://github.com/VLOGroup/mri-variationalnetwork
 MoDL            - https://github.com/hkaggarwal/modl
 Tensorflow_icg  - https://github.com/VLOGroup/tensorflow-icg
