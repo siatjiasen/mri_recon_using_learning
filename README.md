@@ -12,8 +12,10 @@ This script aims to create a docker image with tensorflow-icg for learning based
 8. Tensorflow 1.5.0 with icg contribution
 
 Two learning based MRI reconstruction methods:
+
 1. Variational Network
 2. Model based Deep Learning
+
 could be realized based on created docker container.
 
 References
