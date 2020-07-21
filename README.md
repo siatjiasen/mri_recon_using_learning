@@ -11,10 +11,11 @@ This script aims to create a docker image with tensorflow-icg for learning based
 7. Bazel 0.11.1
 8. Tensorflow 1.5.0 with icg contribution
 
-Two learning based MRI reconstruction methods:
+The following learning based MRI reconstruction methods:
 
-1. Variational Network
-2. Model based Deep Learning
+1. Variational Network (VN)
+2. Model based Deep Learning (MoDL)
+3. ADMMCS-Net (Algorithm Unrolling)
 
 could be realized based on created docker container.
 
